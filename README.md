@@ -1,3 +1,6 @@
+![image](https://github.com/Pavan-1997/AWS_LAMBDA_EBS_Modify/assets/32020205/9aea199c-21dc-4240-a6ad-78c8014357fc)
+
+
 EBS GP2 TO EBS GP3:
 
 1. Create a AWS Lamba function which automatically create a IAM Role
