@@ -1,5 +1,6 @@
-![image](https://github.com/Pavan-1997/AWS_LAMBDA_EBS_Modify/assets/32020205/9aea199c-21dc-4240-a6ad-78c8014357fc)
+AWS Lambda EBS Modify 
 
+As a DevOps team, we take care AWS environment and make sure it is in place with the organization's policies. We use AWS CloudWatch and AWS Lambda to govern the resources accordingly to the policies. For example, we Trigger a Lambda function when an Amazon Block Storage (EBS) volume is created. We use Amazon CloudWatch Events that allows us to monitor and respond to EBS volumes that are of type GP2 and convert them to type GP3.
 
 EBS GP2 TO EBS GP3:
 
