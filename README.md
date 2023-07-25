@@ -44,4 +44,6 @@ EBS GP2 TO EBS GP3:
 
 7. Now create a new volume it should be in GP3
 
-    See the attached image for the change the first volume without Lambda function and the second volume with Lambda function triggered.
+    See the below attached image for the change the first volume without Lambda function and the second volume with Lambda function triggered.
+
+![image](https://github.com/Pavan-1997/AWS_Lambda_EBS_Modify/assets/32020205/ae9230a8-da96-4f8c-9c7f-ec6fae56bdac)
